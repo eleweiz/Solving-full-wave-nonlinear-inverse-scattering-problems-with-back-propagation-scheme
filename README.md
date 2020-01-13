@@ -14,6 +14,7 @@ If you want to test it on a profile defined by yourself, you can define your pro
 To test your trained network, please refer to (2).
 
 Reference:
+
 Z. Wei and X. Chen, “Deep learning schemes for full-wave nonlinear inverse scattering problems,” IEEE Transactions on Geoscience and Remote Sensing, 57 (4), pp. 1849-1860, 2019. 
 
 Z. Wei, D. Liu, and X. Chen, “Dominant-Current Deep Learning Scheme for Electrical Impedance Tomography Imaging,” IEEE Transactions on Biomedical Engineering, vol. 66, no. 9, pp. 2546-2555, 2019.
