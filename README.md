@@ -2,7 +2,7 @@
 This Matlab code is used to solve inverse scattering problem with convolutional neural network by BPS.
 Copyright © 2019, National University of Singapore, Zhun Wei. weizhun1010@gmail.com
 
-Please first download matconvnet: http://www.vlfeat.org/matconvnet/  remember to upzip it.
+Please first download matconvnet 1.0-beta23 : http://www.vlfeat.org/matconvnet/  remember to upzip it.
 
 (1) The Matlab code is used to implement back-propagation scheme (BPS) in
 Z. Wei and X. Chen, “Deep learning schemes for full-wave nonlinear inverse scattering problems,” IEEE Transactions on Geoscience and Remote Sensing, 57 (4), pp. 1849-1860, 2019. 
