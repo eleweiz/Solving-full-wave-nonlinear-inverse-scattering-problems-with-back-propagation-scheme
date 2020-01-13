@@ -15,7 +15,9 @@ To test your trained network, please refer to (2).
 
 Reference:
 Z. Wei and X. Chen, “Deep learning schemes for full-wave nonlinear inverse scattering problems,” IEEE Transactions on Geoscience and Remote Sensing, 57 (4), pp. 1849-1860, 2019. 
+
 Z. Wei, D. Liu, and X. Chen, “Dominant-Current Deep Learning Scheme for Electrical Impedance Tomography Imaging,” IEEE Transactions on Biomedical Engineering, vol. 66, no. 9, pp. 2546-2555, 2019.
+
 K. H. Jin, M. T. McCann, E. Froustey, and M. Unser, “Deep convolutional neural network for inverse problems in imaging,” IEEE Transactions on Image Processing, vol. 26, no. 9, pp. 4509–4522, 2017.
 
 
