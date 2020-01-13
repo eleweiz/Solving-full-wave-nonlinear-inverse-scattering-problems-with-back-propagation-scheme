@@ -9,7 +9,7 @@ Z. Wei and X. Chen, “Deep learning schemes for full-wave nonlinear inverse sca
  This Matlab code is used to solve inverse scattering problem with convolutional neural network by BPS, which is written by Zhun WEI (weizhun1010@gmail. com). 
 Please feel free to contact if you have any question. Only CPU is required, and you can easily adapt it into GPU version or Python version.
 
-(2) Test: I have already put a trained network in the folder “training_result”, which is trained for the random permittivity between 1-1.5. You can simplely test the trained network by running “Display_Results_all_Results” for 25 examples. 
+(2) After training, you can simplely test the trained network by running “Display_Results_all_Results” for 25 examples. 
 If you want to test it on a profile defined by yourself, you can define your profile in “data_generate_Circle_Es_S1” , run it, and then run “Data_generate_Circle_BP_S1” to generate BP inputs, and at last run “Display_Results_your_example”
 
 (3) To start a new training: You can start your training by simple run “BPS_Training”, it consists of “data_generate_Circle_Es” (generate training scattering field) , “Data_generate_Circle_BP” (generate BP inputs), and training process.
