@@ -3,7 +3,7 @@ This Matlab code is used to solve inverse scattering problem with convolutional 
 Copyright © 2019, National University of Singapore, Zhun Wei. weizhun1010@gmail.com
 
 More information, please welcome to visist: https://person.zju.edu.cn/0020060 
-更多信息欢迎访问： https://person.zju.edu.cn/0020060 
+（更多信息欢迎访问： https://person.zju.edu.cn/0020060) 
 
 Please first download matconvnet 1.0-beta23 : http://www.vlfeat.org/matconvnet/  remember to upzip it. To use mex, you also need visual studio installed.
 
