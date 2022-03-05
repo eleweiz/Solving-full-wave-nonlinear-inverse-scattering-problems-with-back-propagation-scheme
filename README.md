@@ -1,6 +1,6 @@
 # Solving full-wave-nonlinear-inverse-scattering-problems with back-propagation-scheme
 This Matlab code is used to solve inverse scattering problem with convolutional neural network by BPS.
-Copyright © 2019, National University of Singapore, Zhun Wei. weizhun1010@gmail.com
+Zhun Wei. weizhun1010@gmail.com
 
 More information, please welcome to visist: https://person.zju.edu.cn/0020060 
 （更多信息欢迎访问： https://person.zju.edu.cn/0020060) 
